@@ -26,7 +26,7 @@ The source code of RepoPilot is maintained in a private repository.
 
 If you are a recruiter, interviewer, or developer interested in reviewing the project, please contact me to request access.
 
-**Email:** your_email@example.com
+**Email:** huyuanyuan_1229 @163.com
 
 Please include:
 - Your GitHub username
